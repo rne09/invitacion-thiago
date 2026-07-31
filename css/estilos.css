@@ -720,10 +720,6 @@ body.bloqueado{ overflow:hidden; height:100%; }
 }
 .polaroid img{ width:100%; display:block; }
 
-.ico-sobre{
-  width:74px; margin:6px auto 2px; display:block;
-  fill:none; stroke:var(--azul); stroke-width:2; stroke-linejoin:round; opacity:.75;
-}
 .cierre{
   display:block; margin:26px 0 0;
   font-family:var(--f-script2); font-size:clamp(32px,9vw,42px);
