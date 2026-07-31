@@ -181,6 +181,38 @@ body.bloqueado{ overflow:hidden; height:100%; }
   width:31cqw;
 }
 
+.credito{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  color:rgba(76,106,140,.78);
+  font-family:var(--f-display);
+  font-size:10px;
+  letter-spacing:.12em;
+  line-height:1.25;
+  text-transform:uppercase;
+  text-decoration:none;
+}
+.credito:hover,
+.credito:focus-visible{
+  color:var(--azul-oscuro);
+  text-decoration:underline;
+  text-underline-offset:3px;
+}
+.credito--portada{
+  position:absolute;
+  left:50%;
+  bottom:2.2%;
+  z-index:6;
+  width:70%;
+  transform:translateX(-50%);
+  padding:5px 8px;
+  border-radius:999px;
+  background:rgba(255,255,255,.6);
+  box-shadow:0 3px 10px rgba(80,105,135,.08);
+  font-size:min(2.35cqw, 10px);
+}
+
 .portada__titulo{
   margin:0; text-align:center; line-height:1.02;
   font-family:var(--f-display); font-weight:500; text-transform:uppercase;
@@ -764,10 +796,7 @@ body.bloqueado{ overflow:hidden; height:100%; }
 }
 
 .pie{ text-align:center; padding:22px 0 0; }
-.pie p{
-  margin:0; font-family:var(--f-display); font-size:10px;
-  letter-spacing:.18em; text-transform:uppercase; color:rgba(85,103,124,.55);
-}
+.credito--pie{ color:rgba(85,103,124,.68); }
 
 /* --- pantallas grandes: la hoja no se estira --- */
 @media (min-width:640px){
