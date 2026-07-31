@@ -1,6 +1,6 @@
-# Invitacion web Baby Shower - Julian
+# Plantilla de invitacion web Baby Shower
 
-Invitacion web estatica para el Baby Shower de Julian. Esta hecha con HTML, CSS y JavaScript puro, sin framework ni build step, para que se pueda abrir localmente o publicar directo en GitHub Pages, Netlify, Cloudflare Pages o Vercel.
+Plantilla de invitacion web estatica para Baby Shower. Esta hecha con HTML, CSS y JavaScript puro, sin framework ni build step, para que se pueda abrir localmente o publicar directo en GitHub Pages, Netlify, Cloudflare Pages o Vercel.
 
 ## Resumen para otra IA
 
@@ -56,7 +56,7 @@ Campos importantes:
 - `fechaISO`: fecha real para la cuenta regresiva.
 - `fechaTexto`, `horaTexto`: texto visible.
 - `lugarNombre`, `lugarDetalle`, `lugarDireccion`: datos del lugar.
-- `mapaUrl`: enlace del mapa.
+- `lugarMapa`: enlace del mapa.
 - `whatsapp`: numero que recibe confirmaciones.
 - `mensajeWhatsapp`: plantilla del mensaje.
 - `dressCode`: texto del color reservado.

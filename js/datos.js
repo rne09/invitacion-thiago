@@ -33,7 +33,7 @@ const DATOS = {
   lugarNombre: "Club De Leones",
   lugarDireccion: "El Carmen De Bolívar\n242 Cra. 47",
   // Pega aqui el enlace de Google Maps del lugar
-  lugarMapa: "https://share.google/EdykhRZitW8ikkMxC",
+  lugarMapa: "https://maps.app.goo.gl/Mo8J6XahheHEeoZAA",
 
   /* --- Dress code ------------------------------------------------------
      Colores sugeridos, en hexadecimal. Puedes poner de 2 a 6.            */

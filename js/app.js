@@ -340,7 +340,7 @@
           obs.unobserve(e.target);
         }
       });
-    }, { threshold: 0.15, rootMargin: "0px 0px -8% 0px" });
+    }, { threshold: 0.01, rootMargin: "0px 0px 18% 0px" });
 
     bloques.forEach((b) => obs.observe(b));
   }
