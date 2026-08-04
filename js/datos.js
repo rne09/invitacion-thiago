@@ -51,7 +51,7 @@ const DATOS = {
   fraseInvitacion: "Viven una etapa llena de amor y desean compartir contigo este momento tan especial, por ello, te invitan a celebrar.",
   fraseConfirmar: "Nos encantará saber que nos acompañarás.\nTe agradeceremos confirmar tu asistencia para poder preparar todos los detalles.",
   fraseRegalos1: "Tu presencia es el mejor regalo que podemos recibir en este día tan especial.",
-  fraseRegalos2: "Si deseas tener un detalle adicional, puedes llevar un regalito para Julián.",
+  fraseRegalos2: "Si deseas tener un detalle adicional, puedes participar en la lluvia de sobres para Julián.",
   fraseCierre: "¡Te esperamos!",
 
   /* --- Imagenes (dejalas vacias "" si aun no las tienes) ---------------- */
