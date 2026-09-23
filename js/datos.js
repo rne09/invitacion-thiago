@@ -22,10 +22,10 @@ const DATOS = {
   /* --- Fecha y hora ---------------------------------------------------
      fechaISO: formato AAAA-MM-DDTHH:MM  (24h). Se usa para la cuenta regresiva.
      Los otros tres campos son solo lo que se ve en pantalla.            */
-  fechaISO: "2026-08-15T10:30",
+  fechaISO: "2026-10-31T10:30",
   diaSemana: "Sábado",
-  diaNumero: "15",
-  mes: "Agosto",
+  diaNumero: "31",
+  mes: "Octubre",
   anio: "2026",
   hora: "10:30 AM",
 
